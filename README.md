@@ -1,1 +1,2 @@
-# OpenStreams is a simple open-source analog to twitch
+## OpenStreams is a simple open-source Twitch analog.
+
